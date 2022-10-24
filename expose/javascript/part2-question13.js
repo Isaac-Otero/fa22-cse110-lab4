@@ -1,0 +1,16 @@
+//math1='3'+2;
+///console.log(math1);
+//math2='3'-2;
+//console.log(math2);
+//math3=3+null;
+//console.log(math3);
+math4=true+3;
+console.log(math4);
+math5=false+null;
+console.log(math5);
+math6='3'+undefined;
+console.log(math6);
+math7='3'-undefined;
+console.log(math7);
+math8='3'+null;
+console.log(math8);
